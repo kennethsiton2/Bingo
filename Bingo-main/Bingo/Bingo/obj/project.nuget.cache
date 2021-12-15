@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NZRQ5bGsyQZoeuLyDTX8n9DJw8yu/hmTbPNJo5x+VemYHTvOfxpraOQwelILwh2PkFnRL1pfcUNAICQCZSSy7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stephen\\Desktop\\Bingo-main\\Bingo\\Bingo\\Bingo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stephen\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Stephen\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Stephen\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Stephen\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Stephen\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Stephen\\.nuget\\packages\\xamarin.forms\\5.0.0.2244\\xamarin.forms.5.0.0.2244.nupkg.sha512"
+  ],
+  "logs": []
+}
